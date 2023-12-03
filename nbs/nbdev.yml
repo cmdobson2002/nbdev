@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev"
+  site-url: "https://cmdobson2002.github.io/nbdev"
+  description: "test"
+  repo-branch: main
+  repo-url: "https://github.com/cmdobson2002/nbdev"
